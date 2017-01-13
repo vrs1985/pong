@@ -1,0 +1,9 @@
+/* Styles go here */
+
+#canvas{
+  margin: 0;
+  padding: 0;
+  left: calc(50% - 240px);
+  top: calc(50% - 180px);
+  border: 1px solid #ccc;
+}
